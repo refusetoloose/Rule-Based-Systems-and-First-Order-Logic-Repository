@@ -1,4 +1,4 @@
-# Expert Systems Lab Repository
+# Rule-Based Systems and First-Order Logic Repository
 
 ## Description
 This repository contains Python code and instructions for a series of activities aimed at exploring expert systems, rule-based reasoning, and first-order logic. The activities are designed to provide practical experience in implementing and reasoning with rule-based systems, as well as solving logical puzzles using first-order logic.
